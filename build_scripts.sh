@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello, Jenkins Build!"
+echo "Hello, Jenkins Build hope it will be successfull !"
 
